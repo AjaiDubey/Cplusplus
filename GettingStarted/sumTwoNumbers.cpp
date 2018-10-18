@@ -77,7 +77,7 @@ int main(){
     */
     
     // display the result on the standard output (console)
-    cout << "The sum of the given numbers is: " << result << "\n";
+    cout << "The sum of the given numbers is: " << result;
     
     // '\n' refers to the newline escape character 
     
